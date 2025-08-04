@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+*.pot
+.Python
+*.sqlite3
+
+# Virtual Environments
+env/
+.venv/
+venv/
+
+# Environment Variables
+*.env
+*.env.*
+env.toml
+
+# Editors
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Node / Tailwind
+node_modules/
+build/
+dist/
+package-lock.json
+postcss.config.js
+tailwindcss
+
+# uv
+.uv/
+
+# Media
+/media/
